@@ -1,0 +1,24 @@
+{
+  "name": "jquery-eventable",
+  "homepage": "https://github.com/gleb-mihalkov/jquery-eventable",
+  "authors": [
+    "gleb-mihalkov <gleb.mihalkov.work@yandex.ru>"
+  ],
+  "description": "Добавляет механизм событий для объектов.",
+  "main": "dist/jquery.eventable.min.js",
+  "keywords": [
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=2.0.0",
+    "jquery-class": "https://github.com/gleb-mihalkov/jquery-class.git"
+  }
+}
